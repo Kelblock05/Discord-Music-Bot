@@ -4,7 +4,7 @@ A simple and easy to use discord bot made in python for any discord server =D
 
 ## Authors
 
-- [@Brosnank10101](https://github.com/Brosnank10101) & [@Kelblock05](https://github.com/Kelblock05) (Same Developer)
+- [@Brosnank10101](https://github.com/Brosnank10101) & [@Kelblock05](https://github.com/Kelblock05) (Same Developer ones my school account and the other is my personal account you get the point...)
 
 ## How To Use My Discord Music Bot
 
